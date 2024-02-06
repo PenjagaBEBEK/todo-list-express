@@ -1,22 +1,22 @@
 {
   "development": {
-    "username": "freedb_ihsun",
-    "password": "W!rJv*76khzExux",
-    "database": "freedb_CecepDB",
+    "username": "freedb_ihsan",
+    "password": "?s&QuZ7dnfP8kNM",
+    "database": "freedb_todolist-ihsan",
     "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "test": {
-    "username": "freedb_ihsun",
-    "password": "W!rJv*76khzExux",
-    "database": "freedb_CecepDB",
+    "username": "freedb_ihsan",
+    "password": "?s&QuZ7dnfP8kNM",
+    "database": "freedb_todolist-ihsan",
     "host": "sql.freedb.tech",
     "dialect": "mysql"
   },
   "production": {
-    "username": "freedb_ihsun",
-    "password": "W!rJv*76khzExux",
-    "database": "freedb_CecepDB",
+    "username": "freedb_ihsan",
+    "password": "?s&QuZ7dnfP8kNM",
+    "database": "freedb_todolist-ihsan",
     "host": "sql.freedb.tech",
     "dialect": "mysql"
   }
